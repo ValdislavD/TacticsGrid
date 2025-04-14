@@ -1,0 +1,6 @@
+﻿  TacticsGrid.cpp
+C:\Users\vladi\Desktop\2 курс\TacticsGrid\TacticsGrid\TacticsGrid.cpp(86,63): error C2039: "to_string": не является членом "std".
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\iostream(19,1):
+       см. объявление "std"
+  
+C:\Users\vladi\Desktop\2 курс\TacticsGrid\TacticsGrid\TacticsGrid.cpp(86,63): error C3861: to_string: идентификатор не найден
