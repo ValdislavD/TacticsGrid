@@ -126,6 +126,12 @@ int main() {
             }
         }
 
+        // Добавляем победу игрока
+        if (!enemy.alive) {
+            std::cout << "\nВы победили! Игра окончена.\n";
+            running = false;
+        }
+
     }
 
     return 0;
